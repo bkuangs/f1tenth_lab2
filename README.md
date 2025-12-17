@@ -11,4 +11,5 @@
 
 2. Testing and confirmation that our AEB script works
 
-<img width="746" height="371" alt="image" src="https://github.com/user-attachments/assets/183deac7-149c-4b93-a145-bd62c4b9e903" />
+<img width="746" height="371" alt="image" src="https://github.com/user-attachments/assets/9ff72111-400f-4648-af76-03bfc21a5911" />
+
