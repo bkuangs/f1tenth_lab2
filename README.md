@@ -1,4 +1,4 @@
-# F1TENTH Lab 2 - Automatic Emergency Braking
+# Lab 2: Automatic Emergency Braking
 
 **Assignment link:** https://github.com/f1tenth/f1tenth_lab2_template
 
